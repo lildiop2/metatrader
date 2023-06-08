@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@polygon.io/client-js": "^7.2.3",
+    "colors": "^1.4.0",
+    "metaapi.cloud-sdk": "^23.0.0",
+    "yahoo-finance": "^0.3.8"
+  }
+}
